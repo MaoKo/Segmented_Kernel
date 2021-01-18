@@ -1,0 +1,1 @@
+An educational segmented kernel
